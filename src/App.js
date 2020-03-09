@@ -16,7 +16,7 @@ const INPUTS = [{name: "zero", symbol: 0},
 
 const OPERATOR = [{name: "add", symbol: "+"}, {name: "subtract", symbol: "-"}, {name: "multiply", symbol: "*"}, {name: "divide", symbol: "/"}];
 
-const APP_LAYOUT = "col-xs-6 col-xs-offset-1 col-md-4 col-md-offset-4 row";
+const APP_LAYOUT = "col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-4 row";
 const DISPLAY_LAYOUT = "col-xs-12 col-md-12 col-lg-12";
 const CLEANER_LAYOUT = "col-xs-6 col-md-6 col-lg-6";
 const SINGLE_INPUT_LAYOUT = "col-xs-3 col-md-3 col-lg-3";
